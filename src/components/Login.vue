@@ -5,6 +5,7 @@
             <input type="submit" value="iniciar sesion">
         </form>
     </div>
+
 </template>
 <script setup>
 import { ref, onMounted } from 'vue';
